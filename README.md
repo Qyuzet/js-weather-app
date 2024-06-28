@@ -4,6 +4,7 @@
 
 This is a simple yet functional weather app built using HTML, CSS, and JavaScript. It allows users to search for weather information for any location worldwide, providing them with real-time data about temperature, conditions, wind speed, and more. 
 
+![weather app demo (2)](https://github.com/Qyuzet/weather-app/assets/93258081/233768c8-47dd-4f31-8565-a8ab115ae86a)
 ![image](https://github.com/Qyuzet/weather-app/assets/93258081/b986b311-f914-4ac1-bb2f-a607da361096)
 
 ## Features
