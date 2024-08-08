@@ -61,7 +61,7 @@ Contributions are welcome! Please feel free to fork the repository and submit pu
 
 ## Project Showcase
 
-You can see this weather app in action on the following webpage: [https://qyuzet.github.io/weather-app/](https://qyuzet.github.io/weather-app/) 
+You can see this weather app in action on the following webpage: [TRY NOW!]([https://qyuzet.github.io/weather-app/](https://qyuzet.github.io/js-weather-app/)) 
 
 ## Future Improvements
 
